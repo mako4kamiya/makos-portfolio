@@ -1,0 +1,45 @@
+figure.effect-oscar {
+    background-color: white;
+}
+figure.effect-oscar img {
+    opacity: 0.5;
+    background-color: transparent;
+}
+figure.effect-oscar img.image-active {
+    opacity: 1;
+}
+
+img.image-name {
+    height: 400px;
+    width: inherit;
+    object-fit: cover;
+}
+img.image-size-1{
+    height: 400px;
+    width: inherit;
+    object-fit: cover;
+}
+img.image-size-2 {
+    height: 350px;
+    width: inherit;
+    object-fit: cover;
+}
+figure.effect-oscar div.bgcolor-active{
+    background-color: rgba(0,0,0,0.5);
+}
+body {
+    background-image: url("/Users/kamiyamasako/Development/original/avana/images/home-images/bg.jpg");
+    background-size: contain;
+}
+footer {
+    display: inline;
+}
+/* #title{
+    line-height: unset;
+}
+figure.effect-oscar figcaption p {
+    font-size: 20px;
+}
+span {
+    font-size: 50px;
+} */

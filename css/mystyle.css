@@ -28,7 +28,8 @@ figure.effect-oscar div.bgcolor-active{
     background-color: rgba(0,0,0,0.5);
 }
 body {
-    background-image: url("/Users/kamiyamasako/Development/original/avana/images/home-images/bg.jpg");
+    /* background-image: url("/Users/kamiyamasako/Development/my-portfolio/images/home-images/bg.jpg"); */
+    background-image: url("/images/home-images/bg.jpg");
     background-size: contain;
 }
 footer {

@@ -29,7 +29,7 @@ figure.effect-oscar div.bgcolor-active{
 }
 body {
     /* background-image: url("/Users/kamiyamasako/Development/my-portfolio/images/home-images/bg.jpg"); */
-    background-image: url("/images/home-images/bg.jpg");
+    background-image: url("../images/home-images/bg.jpg");
     background-size: contain;
 }
 footer {
